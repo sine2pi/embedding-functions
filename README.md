@@ -1,3 +1,5 @@
+Visualize them on colab.
+
 ```python
 
 import torch, math, numpy as np
